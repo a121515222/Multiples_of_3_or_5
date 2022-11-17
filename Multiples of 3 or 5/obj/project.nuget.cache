@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hddpHJIT/+cs7b+mjFvy20xZqoGeWZk+ejbQ2frDzkv36sXhF6ax2L9YnbBAfCau6tioLsDth/BCrsXxKtp5vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chunchia.liang61\\RiderProjects\\Multiples of 3 or 5\\Multiples of 3 or 5\\Multiples of 3 or 5.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.coreop.net/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

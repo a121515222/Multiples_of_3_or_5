@@ -1,0 +1,15 @@
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\bin\Debug\net6.0\Multiples of 3 or 5.exe
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\bin\Debug\net6.0\Multiples of 3 or 5.deps.json
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\bin\Debug\net6.0\Multiples of 3 or 5.runtimeconfig.json
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\bin\Debug\net6.0\Multiples of 3 or 5.dll
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\bin\Debug\net6.0\Multiples of 3 or 5.pdb
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\net6.0\Multiples of 3 or 5.csproj.AssemblyReference.cache
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\net6.0\Multiples of 3 or 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\net6.0\Multiples of 3 or 5.AssemblyInfoInputs.cache
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\net6.0\Multiples of 3 or 5.AssemblyInfo.cs
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\net6.0\Multiples of 3 or 5.csproj.CoreCompileInputs.cache
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\net6.0\Multiples of 3 or 5.dll
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\net6.0\refint\Multiples of 3 or 5.dll
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\net6.0\Multiples of 3 or 5.pdb
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\net6.0\Multiples of 3 or 5.genruntimeconfig.cache
+C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\Multiples of 3 or 5\obj\Debug\net6.0\ref\Multiples of 3 or 5.dll
