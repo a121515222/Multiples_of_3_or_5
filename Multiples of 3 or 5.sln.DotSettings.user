@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=00f57278_002D51e5_002D4c08_002Da721_002Db9393114521c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;UniTestMultiples_of_3_or_5&amp;gt; #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\UniTestMultiples_of_3_or_5" Presentation="&amp;lt;UniTestMultiples_of_3_or_5&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20fdb38b_002Daea2_002D4082_002D835e_002D7e56a6410e41/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;UniTestMultiples_of_3_or_5&amp;gt; #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\UniTestMultiples_of_3_or_5" Presentation="&amp;lt;UniTestMultiples_of_3_or_5&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=607cf32f_002D5906_002D4a42_002Db85c_002D43b5d7a0461f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;UniTestMultiples_of_3_or_5&amp;gt; #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\UniTestMultiples_of_3_or_5" Presentation="&amp;lt;UniTestMultiples_of_3_or_5&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=60a618ab_002D1a27_002D44ef_002Dba16_002Dff9a2dfe8635/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;UniTestMultiples_of_3_or_5&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\UniTestMultiples_of_3_or_5" Presentation="&amp;lt;UniTestMultiples_of_3_or_5&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7cca4bc2_002D150e_002D428e_002D9230_002D529acda23bd6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;NUnit3x::2528D5DA-492F-4E12-9DEC-F47F5F196F9D::net6.0::UniTestMultiples_of_3_or_5.UnitTest.TestDivisibleby3(3)&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+    &lt;Project Location="C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\UniTestMultiples_of_3_or_5" Presentation="&amp;lt;UniTestMultiples_of_3_or_5&amp;gt;" /&gt;&#xD;
+    &lt;Namespace&gt;UniTestMultiples_of_3_or_5&lt;/Namespace&gt;&#xD;
+  &lt;/And&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b68c842a_002Dd5a9_002D4ed9_002D9329_002Ddb75b7ff3710/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;UniTestMultiples_of_3_or_5&amp;gt; #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="C:\Users\chunchia.liang61\RiderProjects\Multiples of 3 or 5\UniTestMultiples_of_3_or_5" Presentation="&amp;lt;UniTestMultiples_of_3_or_5&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

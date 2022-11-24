@@ -6,6 +6,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine(Multiples.Multiples3Or5(10));
+        Console.WriteLine(Multiples.Multiples3Or5(16));
     }
 }

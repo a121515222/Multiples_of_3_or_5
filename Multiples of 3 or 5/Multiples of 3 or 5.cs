@@ -2,13 +2,13 @@
 
 namespace Multiples_of_3_or_5
 {
-    static class Multiples
+    public static class Multiples
     {
         public static int Multiples3Or5(int num)
         {
-            int result = 0;
-            int sum = 0;
-            for (int i = 0; i < num ; i++)
+            var result = 0;
+            var sum = 0;
+            for (var i = 0; i < num ; i++)
             {
                 if (i % 5 == 0 && i % 3 == 0)
                 {
@@ -21,16 +21,7 @@ namespace Multiples_of_3_or_5
                     sum += i;
                 }
             }
-
-            if (sum > 0)
-            {
-                return sum;
-            }
-            else
-            {
-                return result;
-            }
-            
+            return result > 0 ? sum : result;
         }
     }
 }
